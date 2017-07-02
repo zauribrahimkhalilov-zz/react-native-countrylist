@@ -1,0 +1,3 @@
+rootProject.name = 'CountrylistApp'
+
+include ':app'
